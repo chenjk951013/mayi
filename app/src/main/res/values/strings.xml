@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_input_ct_phone">请输入正确的手机号</string>
+    <string name="login_input_pwd">请输入您的密码</string>
+    <string name="login_huo"> 重新获取</string>
+    <string name="login_huo_code"> 获取验证码</string>
+    <string name="login_input_code">请输入您的验证码</string>
+    <string name="register_su">注册成功</string>
+    <string name="password">请输入密码</string>
+    <string name="register_confirm_qpwd">请确定密码</string>
+    <string name="login_input_ycode">请输入邀请码</string>
+    <string name="login_input_jpwd">请输入交易密码</string>
+    <string name="register_tips1"> 密码长度为6位</string>
+    <string name="login_input_nopwd">密码不一致</string>
+</resources>
